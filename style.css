@@ -19,6 +19,7 @@ p {
     margin-left: 30px;
     margin-bottom: 50px;
     color: #828282;
+    text-align: justify;
 }
 
 span {
@@ -64,4 +65,44 @@ span {
     background-image: url(images/shapes/Frame\ 57.jpg);
     background-repeat: no-repeat;
 
+}
+
+.recipe-section {
+    width: 40%;
+    box-shadow: 10px 10px 40px gray;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 10px 20px;
+    border-radius: 30px;
+
+    text-align: justify;
+
+
+
+}
+
+.recipe-img {
+    padding-top: 30px;
+    padding-left: 50px;
+}
+
+
+
+.page-follow {
+    width: 40%;
+    box-shadow: 10px 10px 40px gray;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 10px 395px;
+    border-radius: 10px;
+    justify-content: space-evenly;
+}
+
+
+footer {
+    text-align: center;
+
+    background-color: black;
+    padding-top: 10px;
+    padding-bottom: 30px;
 }
